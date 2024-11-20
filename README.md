@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Features 
+- HomePage 
+ - Login and Sign Up 
+  - redirect to browse page 
+
+- Browser 
+  - header 
+  - main movie 
+     - trailer in background 
+     - Title and Description
+     - movie suggestion 
+     - moovies List * N (Vertical Scroll)
+
+= Netflix Gpt 
+   -search Bar 
+  - Movie suggestion
+
+
+
