@@ -1,5 +1,5 @@
 "use client";
-import AuthForm from '@/app/components/auth-form'
+import AuthForm from '@/components/auth-form'
 import React from 'react'
 
 const SignIn = () => {
